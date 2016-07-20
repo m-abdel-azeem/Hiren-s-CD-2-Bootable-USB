@@ -154,7 +154,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="moazeem.key" />
     <None Include="moazeem.pfx" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
@@ -168,7 +167,6 @@
     </None>
     <None Include="App.config" />
     <None Include="Resources\qemu.7z" />
-    <None Include="Resources\syslinux.cfg" />
     <None Include="Syslinux_Boot_Installer_1_TemporaryKey.pfx" />
     <None Include="Syslinux_Boot_Installer_TemporaryKey.pfx" />
   </ItemGroup>
@@ -185,8 +183,6 @@
     <None Include="Resources\rsz_usb_alt_1.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="1423503090_50838.ico" />
-    <Content Include="favicon %282%29.ico" />
     <Content Include="favicon %283%29.ico" />
     <None Include="Resources\facebook.png" />
     <None Include="Resources\LOGO-2.png" />
